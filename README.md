@@ -1,4 +1,4 @@
-# profile-of-prostate-cancer-cells-under-treatment
+# Differential-Expression-Analysis-of-prostate-cancer-cells-under-treatment
 
 Enzalutamide is an androgen receptor inhibitor used as a chemotherapy agent in the treatment of metastatic prostate cancer. It works by hindering the binding of androgens to androgen receptors (AR) thereby preventing their translocation to the nucleus and inhibiting AR binding to chromosomal DNA aiding the transcription of tumor genes. 
  This analysis was done to profile the expression of metastatic prostate cancer cells that have been subjected to treatment with Enzalutamide. 
