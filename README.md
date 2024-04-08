@@ -4,7 +4,7 @@ Enzalutamide is an androgen receptor inhibitor used as a chemotherapy agent in t
  This analysis was done to profile the expression of metastatic prostate cancer cells that have been subjected to treatment with Enzalutamide. 
 
 # Steps
-1. Data (GSE220097) was obtained from NCBI Gene Expression Omnibus
+1. Data [GSE220097](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi) was obtained from NCBI Gene Expression Omnibus
 2. The data was explored in R studio – Data wrangling and cleaning were done using Tidyverse and Dyplr.
 3. The differential expression analysis was conducted using the DESeq2 Package
 4. Visualization of the expression profile was done with the Pheatmap and Enhanced Volcano Packages.
